@@ -1,0 +1,23 @@
+{
+  "name": "cypressv12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.14.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidsonbr12/e2e_project_1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidsonbr12/e2e_project_1/issues"
+  },
+  "homepage": "https://github.com/davidsonbr12/e2e_project_1#readme"
+}
